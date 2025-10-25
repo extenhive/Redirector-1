@@ -6,7 +6,9 @@ In loving memory of Einar Egilsson, who gave us Redirector and selflessly nurtur
 
 ## Download Links
 * [Firefox](https://addons.mozilla.org/firefox/addon/redirector/)
-* [Google Chrome and Vivaldi](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
+* Update: [Google Chrome and Vivaldi](https://chromewebstore.google.com/detail/redirector/jegbdohdgebjljoljfeinojeobdabpjo)    
+* Source Code: https://github.com/extenhive/Redirector
+* Original: [Google Chrome and Vivaldi](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
 <!--
 Opera extension is no longer present (as of 2023/01/16)
 * [Opera](https://addons.opera.com/extensions/details/redirector-2/)
